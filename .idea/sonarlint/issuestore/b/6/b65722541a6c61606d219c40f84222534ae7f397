@@ -1,0 +1,70 @@
+
+v
+java:S1104"TMake abertura a static final constant or non-public and provide accessors if needed.(©±‹şüÿÿÿÿ8½™Ù¥£1
+p
+java:S1104"TMake situacao a static final constant or non-public and provide accessors if needed.(Éá˜M8½™Ù¥£1
+m
+java:S1104"PMake tipo a static final constant or non-public and provide accessors if needed.(„ÎØ8½™Ù¥£1
+m
+java:S1104"PMake nome a static final constant or non-public and provide accessors if needed.(µ©Ñ¸8½™Ù¥£1
+q
+java:S1104"TMake fantasia a static final constant or non-public and provide accessors if needed.(ô‡ù³8½™Ù¥£1
+n
+java:S1104"QMake porte a static final constant or non-public and provide accessors if needed.(şáæ°8¾™Ù¥£1
+z
+java:S1104"]Make natureza_juridica a static final constant or non-public and provide accessors if needed.(ˆ¸üŒ8‡ç¥£1
+q
+java:S1104"OMake qsa a static final constant or non-public and provide accessors if needed.(Íˆîßıÿÿÿÿ8¾™Ù¥£1
+s
+java:S1104"VMake logradouro a static final constant or non-public and provide accessors if needed.(¬¥¸8¾™Ù¥£1
+o
+java:S1104"RMake numero a static final constant or non-public and provide accessors if needed.(‹­õ8¾™Ù¥£1
+w
+java:S1104"UMake municipio a static final constant or non-public and provide accessors if needed.( £Òüÿÿÿÿ8¾™Ù¥£1
+t
+java:S1104"RMake bairro a static final constant or non-public and provide accessors if needed.(…µ”şÿÿÿÿ8¾™Ù¥£1
+p
+java:S1104"NMake uf a static final constant or non-public and provide accessors if needed.(¥Üêûÿÿÿÿ8¾™Ù¥£1
+q
+java:S1104"OMake cep a static final constant or non-public and provide accessors if needed.(¤³„üúÿÿÿÿ8¾™Ù¥£1
+s
+java:S1104"QMake email a static final constant or non-public and provide accessors if needed.(¾Æ†Ëıÿÿÿÿ8¾™Ù¥£1
+p
+java:S1104"TMake telefone a static final constant or non-public and provide accessors if needed.(º­Ş8¾™Ù¥£1
+{
+java:S1104"YMake data_situacao a static final constant or non-public and provide accessors if needed.(ıËó˜ÿÿÿÿÿ8¾™Ù¥£1
+x
+java:S1104"[Make motivo_situacao a static final constant or non-public and provide accessors if needed.(›æø¼8¿™Ù¥£1
+m
+java:S1104"PMake cnpj a static final constant or non-public and provide accessors if needed.(Å­8¿™Ù¥£1
+{
+java:S1104 "^Make ultima_atualizacao a static final constant or non-public and provide accessors if needed.(Äì†â8¿™Ù¥£1
+o
+java:S1104!"RMake status a static final constant or non-public and provide accessors if needed.(œ©²ÿ8¿™Ù¥£1
+y
+java:S1104""WMake complemento a static final constant or non-public and provide accessors if needed.(Ï§—‚ıÿÿÿÿ8¿™Ù¥£1
+q
+java:S1104#"OMake efr a static final constant or non-public and provide accessors if needed.(à‹¨Ÿüÿÿÿÿ8¿™Ù¥£1
+
+java:S1104$"]Make situacao_especial a static final constant or non-public and provide accessors if needed.(üıäôûÿÿÿÿ8¿™Ù¥£1
+„
+java:S1104%"bMake data_situacao_especial a static final constant or non-public and provide accessors if needed.(Ó¬¸ÿıÿÿÿÿ8¿™Ù¥£1
+|
+java:S1104&"_Make atividade_principal a static final constant or non-public and provide accessors if needed.(ñ¢¼8¿™Ù¥£1
+
+java:S1104'"bMake atividades_secundarias a static final constant or non-public and provide accessors if needed.(Ñ¶¡¥8À™Ù¥£1
+|
+java:S1104("ZMake capital_social a static final constant or non-public and provide accessors if needed.(áïçûıÿÿÿÿ8À™Ù¥£1
+n
+java:S1104)"QMake extra a static final constant or non-public and provide accessors if needed.(¾İ°£8À™Ù¥£1
+u
+java:S1104*"SMake billing a static final constant or non-public and provide accessors if needed.(¾‹ºäúÿÿÿÿ8À™Ù¥£1
+x	java:S116"\Rename this field "natureza_juridica" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¸üŒ8Šç¥£1
+y	java:S116"XRename this field "data_situacao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıËó˜ÿÿÿÿÿ8Â™Ù¥£1
+v	java:S116"ZRename this field "motivo_situacao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›æø¼8Â™Ù¥£1
+y	java:S116 "]Rename this field "ultima_atualizacao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äì†â8Â™Ù¥£1
+}	java:S116$"\Rename this field "situacao_especial" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üıäôûÿÿÿÿ8Â™Ù¥£1
+‚	java:S116%"aRename this field "data_situacao_especial" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó¬¸ÿıÿÿÿÿ8Â™Ù¥£1
+z	java:S116&"^Rename this field "atividade_principal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¢¼8Ã™Ù¥£1
+}	java:S116'"aRename this field "atividades_secundarias" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¶¡¥8Ã™Ù¥£1
+z	java:S116("YRename this field "capital_social" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áïçûıÿÿÿÿ8Ã™Ù¥£1
